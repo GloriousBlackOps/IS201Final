@@ -1,0 +1,38 @@
+.homebg{
+    background-image: url('../assets/img/download.jpg');
+    position: top left;
+}
+
+.bold{font-weight: bold;}
+
+
+.center{text-align: center;}
+
+.picturefloat{float: left;}
+
+.underline{text-decoration: underline;}
+
+.titles{
+    font-weight: bold;
+    font-style: italic;
+    color: midnightblue;
+}
+
+a:visited{color: maroon;}
+
+
+a:hover{
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.righthand{
+    left: 1100px;
+    top: 1000px;
+    text-align: center;
+    padding: 8px;
+}
+
+.border{border: solid black 5px;}
+
